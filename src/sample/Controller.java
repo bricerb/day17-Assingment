@@ -151,7 +151,6 @@ public class Controller implements Initializable {
             todoList.setItems(null);
             todoList.setItems(todoItems);
         } catch (Exception exception) {
-            exception.printStackTrace();
         }
         return todoList;
     }
