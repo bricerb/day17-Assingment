@@ -1,5 +1,4 @@
-this,false
-derp,true
-epic,false
-ROCKS,true
-mune ni rocks,false
+Derp,false
+DERPINATOR,false
+EPIC,false
+whatdafaq,false
